@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "699411074493",
+    "firebase_url": "https://chittooassignment-default-rtdb.firebaseio.com",
+    "project_id": "chittooassignment",
+    "storage_bucket": "chittooassignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699411074493:android:dd85ffbbb1b1127c8916d4",
+        "android_client_info": {
+          "package_name": "com.aman.chittooassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnr2MrHO-M3Kw4Ktw3mPu7DOcQbtO-iVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
